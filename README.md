@@ -28,7 +28,7 @@ You can show my, our drivers and also my projects in my profile. My favorite col
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/Eyes.gif" width=600 /></p>
-<br/><br/>
+
 
 ### Programming Languages  :rocket:
 |<img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/csharp.png" width=60> | <img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/c.webp" width=60> | <img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/qt.png" width=60> | <img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/php.svg" width=60> | <img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/js.png" width=60> |
