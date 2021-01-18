@@ -16,11 +16,11 @@ You can show my, our drivers and also my projects in my profile. My favorite col
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/meow.png" /></p>
-<br/><br/>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/profile.gif" width=400>
-  <br><br>
+  
   <samp>
     I'm Plüton </a>currently high school senior student. I am working at <a href="https://soulcheats.net/"> SoulCheats </a> :briefcase: . What we are doing this website? That is Game AntiCheat Driver Bypasser Forum. We are bypassing anticheats (BattlEye, EasyAnti Cheat, XingCode). How did i get here? The only thing that helped me learn the software was the game cheaters. I asked myself. How these people do these things. They say there is so much protection, how do they get acsess. Exactly 3 years ago I created a anticheat bypasser forum. I started by learning DotNet. Then I learned that these works also have an anti cheat episode. Then I downloaded a bunch of projects to learn C # and C ++. I looked at all of them in detail. I tried it. As a result, I learned a lot. I developed the basics by watching videos and improving myself depending on what I want to do. I tried to make Anti Cheat Driver in general. Then I found myself around here.
   </samp>
@@ -55,24 +55,24 @@ You can show my, our drivers and also my projects in my profile. My favorite col
 <a href="https://discord.gg/F5BkwBSJXh">
   <img align="left" alt="lib-Pluton Discord Server" width="21px" src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/main/img/dc.png" />
 </a>
-<br/><br/>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/lib-Pluton/lib-Pluton/master/img/Dodge.gif" width=600 /></p>
-<br/><br/>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lib-Pluton&layout=compact https://github.com/anuraghazra/github-readme-stats" /></p>
-<br/><br/>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lib-Pluton&theme=dark&show_icons=true" /></p>
-<br/><br/>
+
 
 
 <p align="center">
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=2m0k6loyp16jcnmyudz3s7o88&cover_image=true&theme=default" /></p>
-<br/><br/>
+
 
 
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=lib-Pluton/lib-Pluton) -->
