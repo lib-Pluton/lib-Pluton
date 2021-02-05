@@ -14,7 +14,7 @@ Hello. Welcome to the my profile.
 
 You can show my, our drivers and also my projects in my profile. My favorite color #87ceeb Sky Blue and #EB9BF9 Like Sakura Pink. My favorite business people <a href="https://tr.wikipedia.org/wiki/Bill_Gates">Bill Gates</a> and <a href="https://tr.wikipedia.org/wiki/Elon_Musk">Elon Musk</a>. My favorite Anime is Naruto. My favorite music genres are rock, emo rock, metal and little bit English rap. I also almostly loving all animals but my favorite animal is definitely the cat and the penguin. 
 
-                                               Żarłoczny, pasożytniczy wrzód na dupie społeczeństwa ludu pracującego
+                                          Żarłoczny, pasożytniczy wrzód na dupie społeczeństwa ludu pracującego
 
 
 <p align="center">
