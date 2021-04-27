@@ -68,9 +68,7 @@ You can show my, our drivers and also my projects in my profile. My favorite col
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lib-Pluton&layout=compact https://github.com/anuraghazra/github-readme-stats" /></p>
 <br/><br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lib-Pluton&theme=dark&show_icons=true" /></p>
-<br/><br/>
+<a href="https://github.com/lib-Pluton"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=lib-Pluton&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&midnight-purple" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lib-Pluton&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,midnight-purple" /></a>
 
 
 <p align="center">
