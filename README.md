@@ -65,7 +65,7 @@ You can show my, our drivers and also my projects in my profile. My favorite col
 <br/><br/>
 
 
-<a align="center">
+<div align="center">
 <a href="https://github.com/lib-Pluton"><img src="https://github-readme-stats.vercel.app/api?username=lib-Pluton&theme=midnight-purple&show_icons=true" /><!-- wi*quL3fcV --><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lib-Pluton&theme=midnight-purple&show_icons=true" /></a>
 
 
