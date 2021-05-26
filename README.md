@@ -3,17 +3,6 @@
 
 
 
-TR:
-Merhabalar. Profilime hoşgeldiniz. 
-
-Yazdığım ve yazdığımız driverleri ayrıca kendi yaptığım projeleri profilimde bulabilirsiniz. En sevdiğim renkler #87ceeb Gökyüzü Mavisi ve #EB9BF9 Sakura Pembesi gibi. En sevdiğim iş adamları <a href="https://tr.wikipedia.org/wiki/Bill_Gates">Bill Gates</a> ve <a href="https://tr.wikipedia.org/wiki/Elon_Musk">Elon Musk</a>. En sevdiğim Anime Naruto. Sevdiğim müzik türleri; rock, emo rock, metal, birazda İngilizce rap. Ayrıca neredeyse bütün hayvanları seviyorum ama en sevdiğim hayvan kesinlikle kedi ve penguendir.
-
-
-EN:
-Hello. Welcome to the my profile.
-
-You can show my, our drivers and also my projects in my profile. My favorite color #87ceeb Sky Blue and #EB9BF9 Like Sakura Pink. My favorite business people <a href="https://tr.wikipedia.org/wiki/Bill_Gates">Bill Gates</a> and <a href="https://tr.wikipedia.org/wiki/Elon_Musk">Elon Musk</a>. My favorite Anime is Naruto. My favorite music genres are rock, emo rock, metal and little bit English rap. I also almostly loving all animals but my favorite animal is definitely the cat and the penguin. 
-
                                      Żarłoczny, pasożytniczy wrzód na dupie społeczeństwa ludu pracującego
 
 
